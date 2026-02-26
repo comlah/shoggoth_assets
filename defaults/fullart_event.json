@@ -1,0 +1,42 @@
+{
+	"parent": "event",
+	"template": "fullart/event_<class>",
+    "template_bleed": true,
+    "editor": "event",
+    "level_region": { "x": 29, "y": 81, "width": 96, "height": 48 },
+    "name_region": { "x": 0, "y": 840, "width": 750, "height": 65 },
+    "traits_region": { "x": 0, "y": 895, "width": 750, "height": 50 },
+    "text_region": {
+        "x": 100,
+        "y": 925,
+        "width": 576,
+        "height": 135,
+        "attach_after": "flavor_text"
+    },
+    "text_polygon": [
+        [104, 914],
+        [634, 884],
+        [664, 984],
+        [654, 1044],
+        [104, 1044],
+        [84, 984],
+        [104, 914]
+    ],
+    "illustrator_region": { "x": 5, "y": 40, "width": 1000, "height": 35 },
+    "illustrator_font": {
+        "font": "bold",
+        "size": 19,
+        "color": "white",
+        "alignment": "left",
+        "rotation": 90
+    },
+
+    "collection": "<exi>\n<exn>",
+    "collection_region": { "x": 690, "y": 1000, "width": 50, "height": 80 },
+    "collection_font": {
+        "font": "bold",
+        "size": 19,
+        "color": "white",
+        "alignment": "center"
+    }
+}

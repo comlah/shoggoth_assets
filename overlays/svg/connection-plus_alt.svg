@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   fill="none"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="connection-plus_alt.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="8.77"
+     inkscape:cx="49.942987"
+     inkscape:cy="50"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2" />
+  <g
+     clip-path="url(#clip0_25_8)"
+     id="g2">
+    <path
+       d="M49.9999 97.3872C76.1712 97.3872 97.3872 76.1712 97.3872 49.9999C97.3872 23.8286 76.1712 2.61255 49.9999 2.61255C23.8286 2.61255 2.61255 23.8286 2.61255 49.9999C2.61255 76.1712 23.8286 97.3872 49.9999 97.3872Z"
+       fill="#4F2326"
+       stroke="black"
+       stroke-width="4.79848"
+       id="path1"
+       style="fill:#aa0000" />
+    <path
+       d="m 59.011248,34.035076 c -0.609102,-0.609102 -1.590071,-0.609031 -2.199102,0 l -6.812196,6.812196 -6.812196,-6.812196 c -0.609102,-0.609102 -1.590071,-0.609031 -2.199102,0 l -6.959628,6.959628 c -0.609102,0.609102 -0.609102,1.59 0,2.199102 l 6.812196,6.812196 -6.806115,6.806115 c -0.609031,0.609031 -0.609031,1.589929 7.1e-5,2.199031 l 6.959628,6.959628 c 0.609031,0.609031 1.59,0.609102 2.199031,7.1e-5 l 6.806115,-6.806115 6.806044,6.806044 c 0.609031,0.609031 1.59,0.609102 2.199102,0 l 6.959628,-6.959628 c 0.609031,-0.609031 0.609031,-1.590071 0,-2.199102 l -6.806044,-6.806044 6.812196,-6.812196 c 0.609031,-0.609031 0.609031,-1.590071 0,-2.199102 z"
+       fill="#ebdfa1"
+       stroke="#000000"
+       stroke-width="2.62"
+       stroke-linejoin="round"
+       id="path2" />
+  </g>
+  <defs
+     id="defs2">
+    <clipPath
+       id="clip0_25_8">
+      <rect
+         width="100"
+         height="100"
+         fill="white"
+         id="rect2" />
+    </clipPath>
+  </defs>
+</svg>

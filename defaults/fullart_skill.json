@@ -1,0 +1,24 @@
+{
+	"parent": "skill",
+	"template": "fullart/skill_<class><subtitle>",
+    "template_bleed": true,
+    "editor": "skill",
+    "name_region": { "x": 156, "y": 30, "width": 588, "height": 80 },
+    "label_region": { "x": 37, "y": 125, "width": 76, "height": 40 },
+    "level_region": { "x": 26, "y": 70, "width": 96, "height": 48 },
+    "traits_region": { "x": 0, "y": 853, "width": 750, "height": 50 },
+    "text_region": {
+        "x": 15,
+        "y": 885,
+        "width": 720,
+        "height": 115,
+        "attach_after": "flavor_text"
+    },
+    "text_font": {
+        "size": 34,
+        "alignment": "left"
+    },
+    "text_polygon": null,
+    "illustration_region": { "x": 0, "y": 0, "width": 750, "height": 1050 },
+    "illustrator_region": { "x": 10, "y": 1020, "width": 1030, "height": 35 }
+}

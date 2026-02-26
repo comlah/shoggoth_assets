@@ -1,0 +1,71 @@
+{
+    "template": "chapter_1/scenario",
+    "template_bleed": true,
+    "name": "<name>",
+    "name_region": { "x": 184, "y": 432, "width": 1276, "height": 300 },
+    "name_font": {
+        "font": "title",
+        "size": 90,
+        "alignment": "center"
+    },
+
+    "difficulty": "Easy/Standard",
+    "difficulty_region": { "x": 72, "y": 580, "width": 1500, "height": 100 },
+    "difficulty_font": { "font": "bold", "alignment": "center", "size": 60 },
+
+    "header_region": { "x": 212, "y": 612, "width": 1200, "height": 1220 },
+    "header_font": {
+        "alignment": "center"
+    },
+
+    "chaos_region": { "x": 248, "y": 696, "width": 1200, "height": 1220 },
+    "chaos_font": {
+        "font": "regular",
+        "size": 64,
+        "alignment": "left"
+    },
+    "entries": [
+        { "token": "skull", "text": "-2" },
+        { "token": "cultist, tablet", "text": "-4" },
+        { "token": "elder_thing", "text": "-8" }
+    ],
+
+    "bodyicon_region": { "x": 248, "y": 664, "width": 188, "height": 188 },
+
+    "encounter_icon_region": {
+        "x": 756,
+        "y": 300,
+        "width": 128,
+        "height": 128
+    },
+
+    "trackerbox_region": { "x": 136, "y": 814, "width": 612, "height": 184 },
+    "trackername_region": { "x": 160, "y": 822, "width": 560, "height": 40 },
+
+    "illustrator": "",
+    "illustrator_region": { "x": 156, "y": 2132, "width": 1326, "height": 70 },
+    "illustrator_font": {
+        "font": "bold",
+        "size": 40,
+        "color": "white",
+        "alignment": "left"
+    },
+
+    "copyright": "<copyright>",
+    "copyright_region": { "x": 156, "y": 2132, "width": 1326, "height": 70 },
+    "copyright_font": {
+        "font": "bold",
+        "size": 40,
+        "color": "white",
+        "alignment": "center"
+    },
+
+    "collection": "<esn>/<est>        <exi> <exn>",
+    "collection_region": { "x": 156, "y": 2132, "width": 1326, "height": 70 },
+    "collection_font": {
+        "font": "bold",
+        "size": 40,
+        "color": "white",
+        "alignment": "right"
+    }
+}

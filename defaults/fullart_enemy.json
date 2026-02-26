@@ -1,0 +1,64 @@
+{
+	"parent": "enemy",
+	"template": "fullart/enemy",
+    "template_bleed": true,
+    "editor": "enemy",
+
+    "encounter_icon_region": {
+        "x": 766,
+        "y": 838,
+        "width": 108,
+        "height": 108
+    },
+    "label_region": { "x": 620, "y": 768, "width": 416, "height": 80 },
+    
+    "attack_region": { "x": 552, "y": 292, "width": 104, "height": 140 },
+    "evade_region": { "x": 976, "y": 292, "width": 104, "height": 140 },
+    "health_region": { "x": 756, "y": 272, "width": 120, "height": 140 },
+    "attack_font": {
+        "font": "skill",
+        "size": 84,
+        "color": "white",
+        "alignment": "center",
+        "outline": 2,
+        "outline_color": "#231f20"
+    },
+    "health_font": {
+        "font": "skill",
+        "size": 90,
+        "color": "white",
+        "alignment": "center",
+        "outline": 2,
+        "outline_color": "#231f20"
+    },
+    "evade_font": {
+        "font": "skill",
+        "size": 84,
+        "color": "white",
+        "alignment": "center",
+        "outline": 2,
+        "outline_color": "#231f20"
+    },
+
+    "traits_region": { "x": 272, "y": 432, "width": 1116, "height": 120 },
+    "text_region": { 
+        "x": 272,
+        "y": 492,
+        "width": 1100,
+        "height": 260,
+        "attach_after": "flavor_text"
+    },
+    "text_polygon": [
+        [290, 492],
+        [1350, 492],
+        [1360, 552],
+        [1372, 604],
+        [1140, 728],
+        [612, 728],
+        [272, 604],
+        [280, 552],
+        [290, 492]
+    ],
+
+    "illustration_region": { "x": 0, "y": 0, "width": 1644, "height": 2244 }
+}

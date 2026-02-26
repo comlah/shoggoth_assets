@@ -1,0 +1,36 @@
+{
+    "parent": "location",
+    "template": "chapter_1/location_back",
+    "name_region": { "x": 92, "y": 96, "width": 1440, "height": 180 },
+    "name_font": {
+        "font": "title",
+        "size": 110,
+        "alignment": "center"
+    },
+
+    "encounter_overlay_region": {
+        "x": 724,
+        "y": 1008,
+        "width": 200,
+        "height": 200
+    },
+
+    "traits": "<copy>",
+    "traits_region": { "x": 152, "y": 1272, "width": 1344, "height": 120 },
+    "traits_font": {
+        "font": "bolditalic",
+        "size": 64,
+        "outline": null,
+        "outline_color": null,
+        "alignment": "center",
+        "rotation": null
+    },
+
+    "illustration": "<copy>",
+    "illustration_pan_x": "<copy>",
+    "illustration_pan_y": "<copy>",
+    "illustration_zoom": "<copy>",
+
+    "connection": "<copy>",
+    "connections": "<copy>"
+}

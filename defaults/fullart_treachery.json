@@ -1,0 +1,24 @@
+{
+	"parent": "treachery",
+	"template": "fullart/treachery",
+    "template_bleed": true,
+    "editor": "treachery",
+    "name_region": { "x": 78, "y": 769, "width": 598, "height": 80 },
+
+    "encounter_icon_region": {
+        "x": 349,
+        "y": 662,
+        "width": 56,
+        "height": 56
+    },
+    "label_region": { "x": 274, "y": 727, "width": 208, "height": 40 },
+    "traits_region": { "x": 0, "y": 830, "width": 750, "height": 50 },
+    "text_region": { 
+        "x": 60, 
+        "y": 860, 
+        "width": 630, 
+        "height": 150, 
+        "attach_after": "flavor_text" 
+    },
+    "illustration_region": { "x": 0, "y": 0, "width": 822, "height": 1122 }
+}

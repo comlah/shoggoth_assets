@@ -1,0 +1,39 @@
+{
+	"parent": "asset",
+	"template": "fullart/asset_<class><subtitle>",
+    "template_bleed": true,
+    "editor": "asset",
+    "level_region": { "x": 29, "y": 81, "width": 96, "height": 48 },
+    "traits_region": { "x": 0, "y": 810, "width": 750, "height": 50 },
+    "text_region": {
+        "x": 30,
+        "y": 840,
+        "width": 690,
+        "height": 160,
+        "attach_after": "flavor_text"
+    },
+    "text_polygon": null,
+    "health_region": { "x": 100, "y": 775, "width": 60, "height": 80 },
+    "sanity_region": { "x": 580, "y": 775, "width": 90, "height": 80 },
+    "slot_1_region": { "x": 638, "y": 935, "width": 112, "height": 112 },
+    "slot_2_region": { "x": 534, "y": 935, "width": 112, "height": 112 },
+    "illustration_region": { "x": -36, "y": -36, "width": 858, "height": 1158 },
+    "illustrator_font": {
+        "font": "bold",
+        "size": 20,
+        "color": "#1c2b48",
+        "alignment": "left"
+    },
+    "collection_font": {
+        "font": "bold",
+        "size": 20,
+        "color": "#1c2b48",
+        "alignment": "right"
+    },
+    "copyright_font": {
+        "font": "bold",
+        "size": 20,
+        "color": "#1c2b48",
+        "alignment": "center"
+    }
+}

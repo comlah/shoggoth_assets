@@ -1,0 +1,91 @@
+{
+    "orientation": "horizontal",
+    "template": "investigator_back_<class>",
+    "name": "<unique><name>",
+    "name_region": { "x": 1058, "y": 118, "width": 1010, "height": 140 },
+    "name_font": {
+        "font": "title",
+        "size": 90,
+        "alignment": "center"
+    },
+
+    "subtitle": "<copy>",
+    "subtitle_region": { "x": 1058, "y": 232, "width": 1010, "height": 80 },
+    "subtitle_font": {
+        "font": "bold",
+        "alignment": "center",
+        "size": 56
+    },
+
+    "text_region": { "x": 192, "y": 372, "width": 1880, "height": 1092, "attach_after": "flavor_text" },
+    "text_font": {
+        "font": "regular",
+        "size": 68,
+        "color": "black",
+        "alignment": "left"
+    },
+    
+    "flavor_text": "",
+    "flavor_text_region": {"attached": true},
+    "flavor_text_format": "\n<i>{value}</i>",
+
+    "entries": [
+        ["<b>Deck Size:</b>", "30"],
+        ["<b>Secondary Class Choice:</b>", ""],
+        ["<b>Deckbuilding Options:</b>", ""],
+        [
+            "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+            ""
+        ],
+        ["<b>Deckbuilding Restrictions:</b>", ""]
+    ],
+
+    "illustration_pan_x": -30,
+    "illustration_rotation": -16,
+    "illustration_region": { "x": 72, "y": 92, "width": 824, "height": 824 },
+
+    "text_polygon": [
+        [832, 372],
+        [2060, 372],
+        [2060, 1480],
+        [152, 1480],
+        [152, 1124],
+        [300, 1012],
+        [772, 992],
+        [832, 372]
+    ],
+
+    "text_polygon_seeker": [
+        [832, 372],
+        [2060, 372],
+        [2060, 1480],
+        [192, 1480],
+        [192, 992],
+        [772, 992],
+        [832, 372]
+    ],
+
+    "text_polygon_guardian": [
+        [832, 372],
+        [2060, 372],
+        [2060, 1480],
+        [152, 1480],
+        [152, 1012],
+        [552, 1012],
+        [552, 942],
+        [792, 942],
+        [832, 372]
+    ],
+
+    "text_polygon_survivor": [
+        [812, 358],
+        [2072, 358],
+        [2072, 1440],
+        [152, 1440],
+        [152, 1084],
+        [338, 992],
+        [622, 992],
+        [758, 922],
+        [812, 358]
+    ]
+}

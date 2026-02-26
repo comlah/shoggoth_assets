@@ -1,0 +1,107 @@
+{
+    "orientation": "horizontal",
+    "template": "investigator_<class>",
+    "template_bleed": false,
+    
+    "name": "<unique><name>",
+    "name_region": { "x": 264, "y": 124, "width": 848, "height": 144 },
+    "name_font": {
+        "font": "title",
+        "size": 90,
+        "alignment": "center"
+    },
+    "subtitle": "",
+    "subtitle_region": { "x": 360, "y": 244, "width": 700, "height": 100 },
+    "subtitle_font": {
+        "font": "semibold",
+        "alignment": "center",
+        "size": 56
+    },
+    "classes": ["guardian"],
+    "text": "",
+    "text_region": { "x": 1300, "y": 452, "width": 800, "height": 872, "attach_after": "flavor_text" },
+    "text_font": {
+        "font": "regular",
+        "size": 64,
+        "alignment": "left"
+    },
+
+    "flavor_text": "",
+    "flavor_text_region": {"attached": true},
+    "flavor_text_format": "\n<center><i>{value}</i>",
+
+    "traits": "",
+    "traits_region": { "x": 1300, "y": 380, "width": 860, "height": 100 },
+    "traits_font": {
+        "font": "bolditalic",
+        "size": 64,
+        "alignment": "center"
+    },
+    "illustration": "",
+    "illustration_region": { "x": 72, "y": 312, "width": 1120, "height": 1260 },
+    "willpower": "3",
+    "willpower_region": { "x": 1220, "y": 148, "width": 120, "height": 120 },
+    "willpower_font": { "font": "skill", "size": 90, "alignment": "center" },
+
+    "intellect": "3",
+    "intellect_region": { "x": 1458, "y": 148, "width": 120, "height": 120 },
+    "intellect_font": { "font": "skill", "size": 90, "alignment": "center" },
+
+    "combat": "3",
+    "combat_region": { "x": 1706, "y": 148, "width": 120, "height": 120 },
+    "combat_font": { "font": "skill", "size": 90, "alignment": "center" },
+
+    "agility": "3",
+    "agility_region": { "x": 1944, "y": 148, "width": 120, "height": 120 },
+    "agility_font": { "font": "skill", "size": 90, "alignment": "center" },
+
+    "health": "7",
+    "health_region": { "x": 1540, "y": 1320, "width": 120, "height": 160 },
+    "health_font": {
+        "font": "skill",
+        "size": 110,
+        "color": "white",
+        "outline": 4,
+        "outline_color": "#cb270d",
+        "alignment": "center"
+    },
+
+    "sanity": "7",
+    "sanity_region": { "x": 1714, "y": 1324, "width": 200, "height": 160 },
+    "sanity_font": {
+        "font": "skill",
+        "size": 110,
+        "color": "white",
+        "outline": 4,
+        "outline_color": "#1c2b48",
+        "alignment": "center"
+    },
+
+    "illustrator": "",
+    "illustrator_region": { "x": 1224, "y": 1524, "width": 922, "height": 70 },
+    "illustrator_font": {
+        "font": "bold",
+        "size": 40,
+        "color": "white",
+        "alignment": "left"
+    },
+
+    "copyright": "<copyright>",
+    "copyright_region": { "x": 1224, "y": 1524, "width": 922, "height": 70 },
+    "copyright_font": {
+        "font": "bold",
+        "size": 40,
+        "color": "white",
+        "alignment": "center"
+    },
+
+    "collection": "<exi> <exn>",
+    "collection_story": "<esn>/<est>      <exi>    <exn>",
+    "collection_region": { "x": 1224, "y": 1524, "width": 922, "height": 70 },
+    "collection_font": {
+        "font": "bold",
+        "size": 40,
+        "color": "white",
+        "alignment": "right"
+    }
+}

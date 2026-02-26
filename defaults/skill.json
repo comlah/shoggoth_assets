@@ -1,0 +1,126 @@
+{
+    "template": "chapter_1/skill_<class>",
+    "template_bleed": true,
+    "name": "<name>",
+    "name_region": { "x": 384, "y": 148, "width": 1176, "height": 160 },
+    "name_font": {
+        "font": "title",
+        "size": 90,
+        "alignment": "left"
+    },
+
+    "label": "SKILL",
+    "label_region": { "x": 160, "y": 328, "width": 152, "height": 80 },
+    "label_font": {
+        "font": "semibold",
+        "size": 44,
+        "alignment": "center"
+    },
+
+    "traits_region": { "x": 438, "y": 1480, "width": 812, "height": 100 },
+    "traits_font": {
+        "font": "bolditalic",
+        "size": 64,
+        "alignment": "center"
+    },
+
+    "level_region": { "x": 106, "y": 88, "width": 242, "height": 242 },
+    
+    "text_region": {
+        "x": 230,
+        "y": 1556,
+        "width": 1204,
+        "height": 580,
+        "attach_after": "flavor_text"
+    },
+    "text_polygon": [
+        [252, 1512],
+        [1412, 1512],
+        [1460, 1692],
+        [1476, 1840],
+        [1436, 2032],
+        [252, 2032],
+        [280, 1864],
+        [276, 1744],
+        [256, 1596],
+        [252, 1512]
+    ],
+    "text_font": {
+        "font": "regular",
+        "size": 68,
+        "color": "black",
+        "outline": null,
+        "outline_color": null,
+        "alignment": "left",
+        "rotation": null
+    },
+
+    "flavor_text": "",
+    "flavor_text_region": { "attached": true },
+    "flavor_text_format": "\n<center><i>{value}</i>",
+
+    "illustration_region": { "x": 0, "y": 232, "width": 1644, "height": 1192 },
+    "basicweaknessskill_region": {
+        "x": 1404,
+        "y": 84,
+        "width": 216,
+        "height": 212
+    },
+    "basicweaknessicon_region": {
+        "x": 1456,
+        "y": 124,
+        "width": 120,
+        "height": 120
+    },
+    "weaknessbody_region": { "x": 230, "y": 1552, "width": 1204, "height": 500 },
+
+    "class": "guardian",
+
+    "sanity": null,
+    "health": null,
+    "stamina_region": { "x": 734, "y": 1992, "width": 120, "height": 160 },
+    "sanity_region": { "x": 968, "y": 1992, "width": 180, "height": 160 },
+    "stamina_font": {
+        "font": "skill",
+        "size": 90,
+        "color": "white",
+        "outline": 4,
+        "outline_color": "#cb540d",
+        "alignment": "center"
+    },
+    "sanity_font": {
+        "font": "skill",
+        "size": 90,
+        "color": "white",
+        "outline": 4,
+        "outline_color": "#2c4b96",
+        "alignment": "center"
+    },
+
+    "illustrator": "",
+    "illustrator_region": { "x": 160, "y": 2112, "width": 1326, "height": 70 },
+    "illustrator_font": {
+        "font": "bold",
+        "size": 40,
+        "color": "white",
+        "alignment": "left"
+    },
+
+    "copyright": "<copyright>",
+    "copyright_region": { "x": 160, "y": 2112, "width": 1326, "height": 70 },
+    "copyright_font": {
+        "font": "bold",
+        "size": 40,
+        "color": "white",
+        "alignment": "center"
+    },
+
+    "collection": "<exi> <exn>",
+    "collection_region": { "x": 160, "y": 2112, "width": 1326, "height": 70 },
+    "collection_font": {
+        "font": "bold",
+        "size": 40,
+        "color": "white",
+        "alignment": "right"
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "template": "chapter_1/treachery",
+    "template_bleed": true,
+    "template_basic_weakness": "chapter_1/treachery_weakness",
+    "template_encounter_weakness": "chapter_1/treachery_weakness",
+    "template_weakness": "chapter_1/treachery_weakness",
+    "template_location": "treachery_location",
+    "template_bleed_location": false,
+
+    "name": "<name>",
+    "name_region": { "x": 228, "y": 1310, "width": 1196, "height": 160 },
+    "name_font": {
+        "font": "title",
+        "size": 94,
+        "alignment": "center"
+    },
+
+    "label": "TREACHERY",
+    "label_region": { "x": 620, "y": 1216, "width": 416, "height": 80 },
+    "label_font": {
+        "font": "semibold",
+        "size": 48,
+        "alignment": "center"
+    },
+
+    "subtitle_weakness": "WEAKNESS",
+    "subtitle_encounter_weakness": "WEAKNESS",
+    "subtitle_basic_weakness": "BASIC WEAKNESS",
+    "subtitle_region_weakness": { "x": 192, "y": 1424, "width": 1260, "height": 80 },
+    "subtitle_region_basic_weakness": { "x": 192, "y": 1424, "width": 1260, "height": 80 },
+    "subtitle_region_encounter_weakness": { "x": 192, "y": 1424, "width": 1260, "height": 80 },
+    "subtitle_font": {
+        "font": "bold",
+        "alignment": "center",
+        "size": 80
+    },
+    
+    "text": "",
+    "text_region_weakness": { "x": 192, "y": 1552, "width": 1260, "height": 640, "attach_after": "flavor_text" },
+    "text_region_basic_weakness": { "x": 192, "y": 1552, "width": 1260, "height": 640, "attach_after": "flavor_text" },
+    "text_region_encounter_weakness": { "x": 192, "y": 1552, "width": 1260, "height": 640, "attach_after": "flavor_text" },
+    "text_region": { "x": 192, "y": 1512, "width": 1260, "height": 640, "attach_after": "flavor_text" },
+    "text_font": {
+        "font": "regular",
+        "size": 68,
+        "color": "black",
+        "alignment": "left" 
+    },
+
+    "flavor_text": "",
+    "flavor_text_region": { "attached": true },
+    "flavor_text_format": "\n<center><i>{value}</i>",
+
+    "traits_region": { "x": 192, "y": 1432, "width": 1272, "height": 640 },
+    "traits_region_basic_weakness": { "x": 192, "y": 1502, "width": 1272, "height": 640 },
+    "traits_region_weakness": { "x": 192, "y": 1502, "width": 1272, "height": 640 },
+    "traits_region_encounter_weakness": { "x": 192, "y": 1502, "width": 1272, "height": 640 },
+    "traits_font": {
+        "font": "bolditalic",
+        "size": 64,
+        "alignment": "center"
+    },
+
+    "illustration_region": { "x": 0, "y": 0, "width": 1644, "height": 1272 },
+
+    "encounter_icon_basic_weakness": "AHLCG-BasicWeakness.png",
+    "encounter_overlay_basic_weakness": "basic_weakness.png",
+    "encounter_overlay_encounter_weakness": "basic_weakness.png",
+    "encounter_overlay_region": {
+        "x": 690,
+        "y": 1052,
+        "width": 264,
+        "height": 164
+    },
+    "encounter_icon_region": {
+        "x": 766,
+        "y": 1088,
+        "width": 112,
+        "height": 112
+    },
+
+    "victory": "",
+    "victory_region": { "x": 1072, "y": 1972, "width": 400, "height": 100 },
+    "victory_font": {
+        "font": "bold",
+        "size": 72,
+        "alignment": "right"
+    },
+
+    "shroud_region_location": { "x": 132, "y": 1222, "width": 192, "height": 200 },
+    "shroud_font_location": {
+        "font": "skill",
+        "size": 110,
+        "color": "#faf4e6",
+        "outline": 4,
+        "outline_color": "#231f20",
+        "alignment": "center"
+    },
+
+    "clues_region_location": { "x": 1332, "y": 1222, "width": 192, "height": 200 },
+    "clues_font_location": {
+        "font": "skill",
+        "size": 110,
+        "color": "#231f20",
+        "outline": 4,
+        "outline_color": "#faf4e6",
+        "alignment": "center"
+    },
+
+    "illustrator": "",
+    "illustrator_region": { "x": 156, "y": 2112, "width": 1326, "height": 70 },
+    "illustrator_font": {
+        "font": "bold",
+        "size": 40,
+        "color": "white",
+        "alignment": "left"
+    },
+
+    "copyright": "<copyright>",
+    "copyright_region": { "x": 156, "y": 2112, "width": 1326, "height": 70 },
+    "copyright_font": {
+        "font": "bold",
+        "size": 40,
+        "color": "white",
+        "alignment": "center"
+    },
+
+    "collection": "<esn>/<est>        <exi> <exn>",
+    "collection_region": { "x": 156, "y": 2112, "width": 1326, "height": 70 },
+    "collection_font": {
+        "font": "bold",
+        "size": 40,
+        "color": "white",
+        "alignment": "right"
+    }
+}
