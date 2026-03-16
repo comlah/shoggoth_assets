@@ -1,5 +1,6 @@
 {
     "template": "chapter_1/skill_<class>",
+    "template_story": "chapter_1/skill_neutral",
     "template_bleed": true,
     "name": "<name>",
     "name_region": { "x": 384, "y": 148, "width": 1176, "height": 160 },
@@ -25,6 +26,9 @@
     },
 
     "level_region": { "x": 106, "y": 88, "width": 242, "height": 242 },
+    "level_overlay": "{card_class}_skill_{level}.png",
+    "level_overlay_story": "neutral_skill_{level}.png",
+    "encounter_overlay_story": "story_event_overlay.png",
     
     "text_region": {
         "x": 230,

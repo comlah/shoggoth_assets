@@ -1,5 +1,6 @@
 {
     "template": "chapter_1/event_<class>",
+    "template_story": "chapter_1/event_neutral",
     "template_bleed": true,
     "name": "<name>",
     "name_region": { "x": 72, "y": 1292, "width": 1500, "height": 130 },
@@ -75,9 +76,15 @@
 
     "illustration_region": { "x": 0, "y": 0, "width": 1644, "height": 1152 },
 
+    "icons_box_story": "skill_box_neutral.png",
+
     "class_symbol_3_region": { "x": 988, "y": 80, "width": 208, "height": 208 },
     "class_symbol_2_region": { "x": 1168, "y": 80, "width": 208, "height": 208 },
     "class_symbol_1_region": { "x": 1348, "y": 80, "width": 208, "height": 208 },
+
+    "level_overlay": "{card_class}_{level}.png",
+    "level_overlay_story": "neutral_{level}.png",
+    "encounter_overlay_story": "story_event_overlay.png",
 
     "basicweaknessevent_region": {
         "x": 720,

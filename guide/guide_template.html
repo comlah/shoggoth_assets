@@ -5,8 +5,8 @@
 	<link rel="preload" href="file://{{frontpage}}" as="image" type="image/avif" />
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="preload" href="file://{{a4_empty.webp}}" as="image" type="image/avif" />
-	<link rel="preload" href="file://{{a4_title.webp}}" as="image" type="image/avif" />
+	<link rel="preload" href="file://{{a4_empty}}" as="image" type="image/avif" />
+	<link rel="preload" href="file://{{a4_title}}" as="image" type="image/avif" />
 	<style>
 
 		@page {
@@ -14,7 +14,7 @@
 			padding: 0;
 			margin: 15mm;
 			margin-bottom: 10mm;
-			background-image: url("file://{{a4_empty.webp}}");
+			background-image: url("file://{{a4_empty}}");
 			background-size: cover;
 			background-repeat: no-repeat;
 			@bottom-center {
@@ -32,7 +32,7 @@
 		}
 
 		@page :nth(2) {
-			background-image: url("file://{{a4_title.webp}}");
+			background-image: url("file://{{a4_title}}");
 			margin-top: 75mm;
 
 			@bottom-center {
@@ -193,7 +193,7 @@
 			}
 			body {
 				background-color: white;
-				background-image: url("file://{{a4_empty.webp}}");
+				background-image: url("file://{{a4_empty}}");
 				background-repeat: repeat-y;
 				background-size: contain;
 				padding: 10mm;
@@ -289,7 +289,7 @@
 
 	<h2>Expansion Icon</h2>
 	<p>The cards in the X campaign expansion can be identified by this symbol before each cards’s collector number:</p>
-	<img src="file:///path/to/file/icon.png" width="50%">
+	<img src="file:///{{project.icon}}" width="50%">
 
 	<h2>Campaign Setup</h2>
 	<p>To set up theX campaign, perform the following steps in order.</p>

@@ -1,6 +1,7 @@
 {
     "template": "chapter_1/asset_<class><subtitle>",
     "template_basic_weakness": "chapter_1/asset_weakness<subtitle>",
+    "template_story": "chapter_1/asset_neutral<subtitle>",
     "template_bleed_basic_weakness": true,
     "template_bleed": true,
     "name": "<name>",
@@ -54,6 +55,9 @@
         "alignment": "center"
     },
 
+    "level_overlay": "{card_class}_{level}.png",
+    "level_overlay_story": "neutral_{level}.png",
+
     "text": "",
     "text_region": {
         "x": 144,
@@ -68,6 +72,9 @@
         "color": "#231f20",
         "alignment": "left"
     },
+
+    "encounter_overlay_story": "story_event_overlay.png",
+    "icons_box_story": "skill_box_neutral.png",
 
     "illustration": "",
     "illustration_region": { "x": 0, "y": 232, "width": 1644, "height": 1032 },
