@@ -30,7 +30,7 @@
         "alignment": "center"
     },
 
-    "label": "ASSET",
+    "label": "%:ASSET",
     "label_region": { "x": 144, "y": 332, "width": 166, "height": 70 },
     "label_font": {
         "font": "semibold",

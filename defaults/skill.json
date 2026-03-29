@@ -10,7 +10,7 @@
         "alignment": "left"
     },
 
-    "label": "SKILL",
+    "label": "%:SKILL",
     "label_region": { "x": 160, "y": 328, "width": 152, "height": 80 },
     "label_font": {
         "font": "semibold",

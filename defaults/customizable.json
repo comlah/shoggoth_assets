@@ -8,7 +8,7 @@
         "alignment": "center"
     },
 
-    "label": "UPGRADES",
+    "label": "%:UPGRADES",
     "label_region": { "x": 310, "y": 1012, "width": 130, "height": 28 },
     "label_font": {
         "font": "semibold",

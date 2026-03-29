@@ -16,7 +16,7 @@
         "alignment": "center"
     },
 
-    "label": "STORY",
+    "label": "%:STORY",
     "label_region": {
         "x": 718,
         "y": 2086,

@@ -18,7 +18,7 @@
         "rotation": null
     },
 
-    "label": "KEY",
+    "label": "%:KEY",
     "label_region": { "x": 652, "y": 104, "width": 76, "height": 28 },
     "label_font": {
         "font": "semibold",

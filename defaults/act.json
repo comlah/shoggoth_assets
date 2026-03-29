@@ -46,7 +46,7 @@
         "height": 100
     },
 
-    "label": "Act",
+    "label": "%:Act",
     "label_region": { "attached": true },
     "label_format": "{value} ",
 

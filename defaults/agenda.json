@@ -47,7 +47,7 @@
         "height": 100
     },
 
-    "label": "Agenda",
+    "label": "%:Agenda",
     "label_region": { "attached": true },
     "label_format": "{value} ",
 

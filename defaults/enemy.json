@@ -25,7 +25,7 @@
         "alignment": "center"
     },
 
-    "label": "ENEMY",
+    "label": "%:ENEMY",
     "label_region": { "x": 696, "y": 1304, "width": 244, "height": 100 },
     "label_region_minimal": { "x": 696, "y": 1128, "width": 244, "height": 100 },
     "label_font": {

@@ -34,7 +34,7 @@
         "height": 140
     },
 
-    "label": "AGENDA",
+    "label": "%:AGENDA",
     "label_region": { 
         "x": 174,
         "y": 198,

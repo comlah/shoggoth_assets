@@ -8,7 +8,7 @@
         "alignment": "center"
     },
 
-    "label": "TREACHERY",
+    "label": "%:TREACHERY",
     "label_region": { "x": 274, "y": 574, "width": 208, "height": 40 },
     "label_font": {
         "font": "semibold",

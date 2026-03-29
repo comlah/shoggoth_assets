@@ -37,7 +37,7 @@
         "height": 140
     },
 
-    "label": "ACT",
+    "label": "%:ACT",
     "label_region": {
         "x": 174,
         "y": 195,
