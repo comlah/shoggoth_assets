@@ -13,5 +13,11 @@
 	"TREACHERY": "TRAÎTRISE",
 	"ASSET": "SOUTIEN",
 	"WEAKNESS": "FAIBLESSE",
-	"BASIC WEAKNESS": "FAIBLESSE DE BASE"
+	"BASIC WEAKNESS": "FAIBLESSE DE BASE",
+	"<for>": "<b>Forcé –</b>",
+	"<prey>": "<b>Proie –</b>",
+	"<rev>": "<b>Révélation –</b>",
+	"<spawn>": "<b>Génération –</b>",
+	"<obj>": "<b>Objectif –</b>",
+	"<objective>": "<b>Objectif –</b>"
 }
