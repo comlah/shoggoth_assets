@@ -26,7 +26,7 @@
     },
     "entries": [
         { "token": "skull", "text": "-2" },
-        { "token": "cultist, tablet", "text": "-4" },
+        { "token": ["cultist", "tablet"], "text": "-4" },
         { "token": "elder_thing", "text": "-8" }
     ],
 
@@ -52,7 +52,7 @@
     },
 
     "copyright": "<copyright>",
-    "copyright_region": { "x": 156, "y": 2132, "width": 1326, "height": 70 },
+    "copyright_region": { "x": 156, "y": 2112, "width": 1326, "height": 70 },
     "copyright_font": {
         "font": "bold",
         "size": 40,
@@ -61,7 +61,7 @@
     },
 
     "collection": "<esn>/<est>        <exi> <exn>",
-    "collection_region": { "x": 156, "y": 2132, "width": 1326, "height": 70 },
+    "collection_region": { "x": 156, "y": 2112, "width": 1326, "height": 70 },
     "collection_font": {
         "font": "bold",
         "size": 40,
